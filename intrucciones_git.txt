@@ -1,0 +1,7 @@
+git clone pagina 
+git estatus
+git add > y nombre de archivo  o tambein  
+git add. agrega todo
+git comit -m y mensaje 
+git push para subir al repo
+
